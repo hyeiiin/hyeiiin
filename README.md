@@ -22,7 +22,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hyeiiin&theme=nord_dark)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hyeiiin&theme=flat&column=7)](https://github.com/dkssud8150/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hyeiiin&theme=flat&column=8)](https://github.com/dkssud8150/)
 
 
 </div>
