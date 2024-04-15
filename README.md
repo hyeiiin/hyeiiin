@@ -4,12 +4,35 @@
 </div>
 
 ---
+
+<!-- 
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeiiin&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=hyeiiin&theme=tokyonight&show_icons=true" width="42%" />
+</a>
+-->
+
 <div align="center">
-<!--   <h2>📚기술 스택📚</h2> -->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hyeiiin&theme=tokyonight)](https://git.io/streak-stats)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hyeiiin&theme=nord_dark)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hyeiiin&theme=flat&column=7)](https://github.com/dkssud8150/)
+
+
+</div>
+
+
+  <h2>Tech Stack</h2>
 </div>
 
 <div align="flex">
-  <h3>Language</h3>
+ <h3>Language</h3> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
