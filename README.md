@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=hyeiiin🕊%20&fontSize=90">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=hyein's_github🕊%20&fontSize=50">
 <!--   <h2>상상을 현실로! 생각한 걸 개발하고 싶은 개발자 '김혜인' 입니다.</h2> -->
 </div>
 
