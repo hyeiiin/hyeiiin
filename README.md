@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=170&section=header&text=hyein's%20github🕊%20&fontSize=30">
-<!--   <h2>상상을 현실로! 생각한 걸 개발하고 싶은 개발자 '김혜인' 입니다.</h2> -->
 </div>
 
 
@@ -104,11 +103,7 @@
       <th>Introduction</th>
       <th>Languages, etc.</th>
     </tr>
-    <tr>
-      <td><a href="https://github.com/OnlyTeamLeaderIsE/Sueoswiwo">EasySign</a></td>
-      <td>모션인식을 활용하여 배우는 수어 교육</td>
-      <td>Java, Spring Boot, JPA</td>
-    </tr>
+  
     <tr>
       <td><a href="https://www.naver.com/">ForMyBaby</a></td>
       <td>부모가 한숨 돌릴 수 있는 아이 지킴이</td>
@@ -125,7 +120,7 @@
 
 <div align="center">
   💻 SSAFY (Samsung Software Academy Foy Youth) 10th (2023.07~) <br>
-  🏅 2024년 삼성 청년 SW 아카데미 2학기 공통 프로젝트 우수상 (2024.2.29)
+  🏅 
 </div>
 
 ---
@@ -135,7 +130,6 @@
 </div>
 
 <div align="center">
-  궁금한 점이나 협업 제안이 있으시다면 언제든지 연락주세요! <br>
-  이메일: eh6848zzz@gmail.com
+  이메일: hyeinsuin@gmail.com
 </div>
 --!>
